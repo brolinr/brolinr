@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Brolin
 
-Here are some ideas to get you started:
+Here is what I am doing:
 
 - 🔭 I am building projects
 - 🌱 Currently learning Java.
