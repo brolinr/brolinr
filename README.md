@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building projects
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on open source.
+- 🔭 I am building projects
+- 🌱 Currently learning Java.
+- 👯 Looking to collaborate on the open food network opensource project.
 
 <div id="badges">
   <a href="https://zw.linkedin.com/in/brolin-remunyanga">
