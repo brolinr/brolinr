@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on building projects
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source.
 
