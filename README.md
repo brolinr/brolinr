@@ -2,9 +2,9 @@
 
 Here is what I am doing:
 
-- 🔭 I am building projects
-- 🌱 Currently learning Java.
-- 👯 Looking to collaborate on the open food network opensource project.
+- 🔭 I am collaborating on a project.
+- 🌱 Currently working on my JavaScript.
+- 👯 Looking to finish up my college diploma.
 
 <div id="badges">
   <a href="https://zw.linkedin.com/in/brolin-remunyanga">
