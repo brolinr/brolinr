@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Brolin
+### Hi there 👋 I'm Brolin Remunyanga
 
 - 🔭 Backend Developer at Jalappeno
 - 🚀 Proficient in Ruby, Ruby on rails
