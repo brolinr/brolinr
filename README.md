@@ -6,7 +6,7 @@
 
 ## Let's have a chat
 <div id="badges">
-  <a href="https://zw.linkedin.com/in/brolin-remunyanga">
+  <a href="https://zw.linkedin.com/in/brolinr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/bremunyanga">
