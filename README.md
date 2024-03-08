@@ -6,7 +6,7 @@
 
 ## Let's have a chat
 <div id="badges">
-  <a href="https://zw.linkedin.com/in/brolinr">
+  <a href="https://zw.linkedin.com/in/brolin-remunyanga">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/bremunyanga">
@@ -15,7 +15,7 @@
 </div>
 
 ## My Github stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=brolin-remunyanga&theme=github-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brolinr&theme=github-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brolinr&theme=tokyonight)
 
