@@ -15,7 +15,4 @@
 </div>
 
 ## My Github stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=brolinr&theme=github-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brolinr&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=brolinr&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
