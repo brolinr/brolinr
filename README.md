@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Brolin Remunyanga
 
-- 🔭 Backend Developer at Jalappeno
-- 🚀 Proficient in Ruby, Ruby on rails
-- 😄 I am currently learning JavaScript
+- 🔭 Full stack Ruby on rails Developer at Jalappeno
+- 🚀 Proficient in Ruby, JavaSript, Ruby on rails
+- 😄 I am currently learning Next js
 
 ## Let's have a chat
 <div id="badges">
