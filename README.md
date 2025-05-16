@@ -1,83 +1,47 @@
-## Hi there, I'm Brolin Remunyanga! 👋
-### Passionate Web & Mobile Developer
+# 👋 Hi, I'm Brolin Remunyanga
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brolinr&label=Profile%20views&color=0e75b6&style=flat" alt="brolinr" />
-</p>
+I'm a full stack developer focused on Ruby on Rails with 1+ year of real-world experience building features in early-stage SaaS products. I currently work remotely at a startup (Jalappeno) building MVPs for store management, marketing automation, and link-sharing tools.
 
----
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brolinr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/bremunyanga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/brolin-remunyanga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/real.brolinr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+My experience lies in writing well-tested, maintainable code and integrating modern frontends (React/Next.js) with Rails monoliths and API backends. I've also contributed to performance improvements, architecture cleanup, and developer tooling in a resource-constrained startup environment.
 
 ---
 
-### 💻 Languages & Technologies
-#### 🌐 Frontend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://bulma.io/images/bulma-logo.png" alt="Bulma" width="40" height="40" />
-</p>
+## 🧱 What I Actually Do
 
-#### 📱 Mobile Development
-<p>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-</p>
-
-#### 🛠 Backend & Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-</p>
-
-#### 🛠 DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-</p>
-
-#### 🎨 UI/UX & Design
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
-</p>
+- Develop features for a Rails + React monolith powering store management and marketing apps.
+- Maintain a Rails API backend with OAuth 2.0 (Doorkeeper) for a Next.js frontend.
+- Setup CI/CD pipelines using GitHub Actions, integrated Stripe and Google Analytics 4.
+- Wrote test suites: RSpec (unit), Capybara/Cucumber (integration), Cypress (end-to-end).
+- Built features like:
+  - Soft-delete recovery (Recycle Bin)
+  - History & revert (PaperTrail audit logs)
+  - Infinite scrolling & lazy loading (Turbo)
+  - AI PDF/image analysis for store setup
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brolinr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brolinr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brolinr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧪 Tech Stack
+
+**Backend:** Ruby, Ruby on Rails, PostgreSQL  
+**Frontend:** React, Next.js, Stimulus.js, Turbo, TailwindCSS  
+**Testing:** RSpec, Capybara, Cypress, Cucumber  
+**DevOps:** GitHub Actions, Sidekiq, New Relic  
+**Other:** OAuth (Doorkeeper), Stripe, Google Analytics 4
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brolinr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 What I’m Learning
+
+- Deeper architectural patterns (service objects, API boundaries)
+- More advanced testing strategies
+- Scaling apps beyond MVP
+
+---
+
+## 🛰️ Open to Collaborations
+
+I’m open to contributing to Rails-based open source projects, especially those focused on building products for small businesses or dev tools. If you’ve got something interesting — let’s connect.
+
+📬 [remunyangabrolin@gmail.com](mailto:remunyangabrolin@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/brolin-remunyanga)
+
