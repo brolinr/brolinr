@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brolin Remunyanga
 
-I'm a full stack developer focused on Ruby on Rails with 1+ year of real-world experience building features in early-stage SaaS products. I currently work remotely at a startup (Jalappeno) building MVPs for store management, marketing automation, and link-sharing tools.
+I'm a full stack developer focused on Ruby on Rails with experience building features in early-stage SaaS products. I currently work remotely at a startup (Jalappeno) building MVPs for store management, marketing automation, and link-sharing tools.
 
 My experience lies in writing well-tested, maintainable code and integrating modern frontends (React/Next.js) with Rails monoliths and API backends. I've also contributed to performance improvements, architecture cleanup, and developer tooling in a resource-constrained startup environment.
 
