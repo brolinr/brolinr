@@ -5,8 +5,8 @@
 **Backend:** Ruby, Ruby on Rails, PostgreSQL  
 **Frontend:** React, Next.js, Stimulus.js, Turbo, TailwindCSS  
 **Testing:** RSpec, Capybara, Cypress, Cucumber  
-**DevOps:** GitHub Actions, Sidekiq, New Relic  
-**Other:** OAuth (Doorkeeper), Stripe, Google Analytics 4
+**DevOps:** GitHub Actions, New Relic  
+**Other:** OAuth (Doorkeeper), Stripe, Sidekiq, Google Analytics 4
 
 ---
 
